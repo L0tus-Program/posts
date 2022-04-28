@@ -1,0 +1,22 @@
+body{
+    background-color: dodgerblue;
+}
+
+
+#main{
+    display: block; /* garantir funcionamento das margin */
+    background-color: aliceblue;
+    width: 50vw;
+    height: 25vh;
+    margin: 10vh;
+    text-align: center;
+    margin-top: 25vh; /* pra deixar mais centralizado na vertical */
+    margin-left: auto;
+    margin-right: auto; /* margin centralizando a section */
+    border-radius: 20px;
+}
+
+#main h1{
+    font-size: 50px;
+}
+
